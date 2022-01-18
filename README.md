@@ -1,4 +1,4 @@
-<p align="right"><img src="https://badgen.net/badge/MADE BY/Sylvain Valvassori/green"> <img src="https://badgen.net/github/last-commit/Sylvain-Valvassori/Quote-random/main"> <img src="https://badgen.net/github/release/Sylvain-Valvassori/Quote-random/green?icon=bitcoin-lightning"> 
+<p align="right"><img src="https://badgen.net/badge/MADE BY/Sylvain Valvassori/green"> <img src="https://badgen.net/github/last-commit/Sylvain-Valvassori/Quote-random/main">
 <br><br>
 
 <h1 align="center">Quote random with Ajax
